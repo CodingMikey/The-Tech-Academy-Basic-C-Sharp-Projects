@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\obj\Debug\WelcomePrintOut.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\obj\Debug\WelcomePrintOut.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\bin\Debug\WelcomePrintOut.exe.config
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\bin\Debug\WelcomePrintOut.exe
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\bin\Debug\WelcomePrintOut.pdb
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\obj\Debug\WelcomePrintOut.exe
+C:\Users\MeMe\source\repos\WelcomePrintOut\WelcomePrintOut\obj\Debug\WelcomePrintOut.pdb
