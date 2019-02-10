@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\bin\Debug\OperatorsExercise.exe.config
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\bin\Debug\OperatorsExercise.exe
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\bin\Debug\OperatorsExercise.pdb
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\OperatorsExercise.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\OperatorsExercise.exe
+C:\Users\MeMe\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\OperatorsExercise.pdb
