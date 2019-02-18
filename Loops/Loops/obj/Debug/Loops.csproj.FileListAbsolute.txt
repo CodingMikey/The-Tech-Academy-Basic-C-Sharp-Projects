@@ -1,0 +1,7 @@
+C:\Users\TEE PC\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\TEE PC\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\TEE PC\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\TEE PC\source\repos\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\TEE PC\source\repos\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\TEE PC\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\TEE PC\source\repos\Loops\Loops\obj\Debug\Loops.pdb
