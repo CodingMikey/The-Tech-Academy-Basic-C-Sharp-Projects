@@ -1,0 +1,7 @@
+c:\users\vic\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+c:\users\vic\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+c:\users\vic\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+c:\users\vic\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csprojAssemblyReference.cache
+c:\users\vic\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+c:\users\vic\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+c:\users\vic\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb
