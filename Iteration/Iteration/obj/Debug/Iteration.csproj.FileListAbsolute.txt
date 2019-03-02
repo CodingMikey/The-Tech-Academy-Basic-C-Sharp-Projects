@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\MeMe\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\MeMe\source\repos\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\MeMe\source\repos\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\MeMe\source\repos\Iteration\Iteration\obj\Debug\Iteration.pdb
