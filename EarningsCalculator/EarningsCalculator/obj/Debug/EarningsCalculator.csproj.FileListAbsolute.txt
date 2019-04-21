@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\bin\Debug\EarningsCalculator.exe.config
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\bin\Debug\EarningsCalculator.exe
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\bin\Debug\EarningsCalculator.pdb
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\obj\Debug\EarningsCalculator.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\obj\Debug\EarningsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\obj\Debug\EarningsCalculator.exe
+C:\Users\MeMe\source\repos\EarningsCalculator\EarningsCalculator\obj\Debug\EarningsCalculator.pdb
