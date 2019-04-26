@@ -1,0 +1,7 @@
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\bin\Debug\BasicAlgorithmExercise.exe.config
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\bin\Debug\BasicAlgorithmExercise.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\bin\Debug\BasicAlgorithmExercise.pdb
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\obj\Debug\BasicAlgorithmExercise.csprojAssemblyReference.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\obj\Debug\BasicAlgorithmExercise.csproj.CoreCompileInputs.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\obj\Debug\BasicAlgorithmExercise.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\BasicAlgorithmExercise\BasicAlgorithmExercise\obj\Debug\BasicAlgorithmExercise.pdb
